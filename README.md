@@ -42,7 +42,6 @@ To get a humor via Sarcaster:<br> <br>
 
 |    Command     |    Description    |
 | ------------- | ------------- |
-| -sarcasm  | Shows the help embed.  |
 | -sarcasm help  | Shows the help embed. |
 | -sr random | Will throw you a random joke.|
 | -sr dark | Will throw you a dark joke.|
